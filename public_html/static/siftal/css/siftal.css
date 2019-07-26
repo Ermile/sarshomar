@@ -21653,7 +21653,7 @@ body.siftal .full .middle {
 .payTicketDetail .msg {
   background-color: #fff; }
 
-.blogEx {
+.blogEx.sample {
   font-size: 1.7em; }
 
 .minimalW {
@@ -21678,6 +21678,9 @@ body.siftal .full .middle {
   font-weight: 300;
   transition: 0.3s; }
 
+.rtl .blogEx > header h1 a {
+  font-weight: 900; }
+
 .blogEx > header h2 {
   font-size: 1em;
   font-weight: 100; }
@@ -21692,7 +21695,7 @@ body.siftal .full .middle {
   line-height: 2;
   max-width: 600px;
   width: 90%;
-  margin: 0 auto;
+  margin: 0 auto 50px;
   overflow: hidden; }
 
 .blogEx > nav a {
@@ -21712,12 +21715,12 @@ body.siftal .full .middle {
   width: 90%;
   margin: 0 auto; }
 
-.blogEx article {
-  margin: 30px 0 50px;
+.blogEx.sample article {
+  margin-bottom: 3em;
   padding: 20px 0;
   overflow: hidden; }
 
-.blogEx article a:visited {
+.blogEx.sample article a:visited {
   color: #22bb88; }
 
 .blogEx article h2 {
@@ -21728,7 +21731,7 @@ body.siftal .full .middle {
   font-weight: 100; }
 
 .blogEx article .meta {
-  color: #95a5a6;
+  color: #aaa;
   font-weight: 100;
   text-transform: uppercase;
   overflow: hidden; }
@@ -21742,12 +21745,13 @@ body.siftal .full .middle {
 
 .blogEx article .thumb {
   display: block;
-  margin-top: 1rem; }
+  margin: 1rem auto; }
 
 .blogEx article img {
   width: 100%;
   height: auto;
-  display: block; }
+  display: block;
+  margin: 0 auto; }
 
 .blogEx .tagBox a {
   padding: 0.5em 0.5em;
