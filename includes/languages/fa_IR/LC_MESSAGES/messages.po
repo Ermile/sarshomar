@@ -23947,7 +23947,7 @@ msgstr ""
 #~ msgid ""
 #~ "The size of file is larger than the upload space you have, your space is :space"
 #~ msgstr ""
-#~ "اندازه فایل شما بزرگتر از سایر در اختیار گرفته برای شماست. فضای شما :space است"
+#~ "اندازه فایل شما بیشتر از حداکثر حجم قابل قبول سرور است. فضای شما :space است"
 
 #~ msgid "sing in"
 #~ msgstr "ورود"
