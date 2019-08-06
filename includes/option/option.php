@@ -30,6 +30,8 @@ self::$config['botscout']                 = 'hIenwLNiGpPOoSk';
 self::$config['max_upload'] = 5 * 1024 * 1024; // 5 MB;
 
 
+self::$config['billing_page'] = true;
+
 // upload file on dl.sarshomar.com
 self::$config['upload_subdomain']  = 'dl';
 
