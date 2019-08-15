@@ -415,7 +415,8 @@ kbd:hover {
 audio,
 video {
   display: inline-block;
-  max-width: 100%; }
+  max-width: 100%;
+  outline: none; }
 
 audio:not([controls]) {
   display: none;
@@ -2779,6 +2780,32 @@ progress.xl, meter.xl {
   border-right: 2px solid #27bf27;
   border-left: 2px solid #27bf27;
   padding: 5px; }
+
+.panel {
+  background-color: #fff;
+  border-radius: 8px;
+  border: 1px solid #dadce0;
+  overflow: hidden; }
+
+.panel hr {
+  border-color: #dadce0;
+  margin: 0; }
+
+.panel .pad {
+  padding: 1em 1.5em; }
+
+.panel .padH {
+  padding: 1.5em 2em; }
+
+.panel a.special {
+  display: block;
+  transition: 0.3s; }
+
+.panel a.special:hover {
+  background-color: #f5f5f5; }
+
+.panel a.special:focus {
+  background-color: #eee; }
 
 .dcard {
   font-size: 1.2em;
@@ -17258,7 +17285,7 @@ html[lang=fa] .switch1.gender input:checked + label:first-of-type:before {
 .radio3 label::after {
   content: '';
   position: absolute;
-  left: 23px;
+  left: 15px;
   top: 16px;
   background-color: #fff;
   width: 2px;
@@ -20029,6 +20056,24 @@ body .we500 {
   -ms-border-radius: 10rem;
   border-radius: 10rem; }
 
+.box100 {
+  display: block;
+  margin: 0 auto;
+  max-width: 100px;
+  overflow: hidden; }
+
+.box200 {
+  display: block;
+  margin: 0 auto;
+  max-width: 200px;
+  overflow: hidden; }
+
+.box300 {
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+  overflow: hidden; }
+
 [data-confirm] {
   cursor: pointer; }
 
@@ -21047,7 +21092,7 @@ body.siftal .full .middle {
   transition-property: color, background-color;
   display: block;
   height: 100%;
-  width: 50px;
+  width: 40px;
   color: #888;
   line-height: 45px; }
 
@@ -21440,28 +21485,28 @@ body.siftal .full .middle {
   100% {
     opacity: .3; } }
 /* footer */
-.siftal footer {
+.siftal #main > footer {
   flex-shrink: 0;
   background-color: #eaeaea;
   box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.2);
   z-index: 1;
   user-select: none; }
 
-.siftal footer #copyright {
+.siftal #main > footer #copyright {
   padding: 0 1em; }
 
-.siftal.ltr footer #copyright {
+.siftal.ltr #main > footer #copyright {
   margin-left: auto; }
 
-.siftal.rtl footer #copyright {
+.siftal.rtl #main > footer #copyright {
   margin-right: auto; }
 
-.siftal footer #copyright span {
+.siftal #main > footer #copyright span {
   display: inline-block;
   line-height: 25px;
   height: 25px; }
 
-.siftal footer #copyright abbr {
+.siftal #main > footer #copyright abbr {
   display: inline-block;
   line-height: 25px;
   height: 25px; }
@@ -23012,6 +23057,9 @@ body.siftal .full .middle {
     border: none !important;
     background-color: transparent !important; }
 
+  .s12 .cbox {
+    padding: 1em 0.5em; }
+
   .breadcrumb {
     padding: 5px 5px;
     height: auto; }
@@ -23039,7 +23087,7 @@ body.siftal .full .middle {
 
   .alert {
     padding: 0.5em; } }
-@media (max-width: 280px) {
+@media screen and (max-width: 280px) {
   html:before {
     font-size: 100vw;
     position: absolute;
