@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="204" viewBox="0 0 360 204">
+  <defs>
+    <linearGradient id="linear-gradient" x1="13" y1="105" x2="49" y2="105" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdc1c6" stop-opacity="0"/>
+      <stop offset="0.137" stop-color="#bdc1c6" stop-opacity="0.021"/>
+      <stop offset="0.279" stop-color="#bdc1c6" stop-opacity="0.084"/>
+      <stop offset="0.424" stop-color="#bdc1c6" stop-opacity="0.189"/>
+      <stop offset="0.57" stop-color="#bdc1c6" stop-opacity="0.336"/>
+      <stop offset="0.718" stop-color="#bdc1c6" stop-opacity="0.525"/>
+      <stop offset="0.864" stop-color="#bdc1c6" stop-opacity="0.753"/>
+      <stop offset="1" stop-color="#bdc1c6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="39" y1="166" x2="75" y2="166" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9aa0a6" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#9aa0a6" stop-opacity="0.025"/>
+      <stop offset="0.306" stop-color="#9aa0a6" stop-opacity="0.1"/>
+      <stop offset="0.464" stop-color="#9aa0a6" stop-opacity="0.225"/>
+      <stop offset="0.624" stop-color="#9aa0a6" stop-opacity="0.4"/>
+      <stop offset="0.786" stop-color="#9aa0a6" stop-opacity="0.626"/>
+      <stop offset="0.946" stop-color="#9aa0a6" stop-opacity="0.898"/>
+      <stop offset="1" stop-color="#9aa0a6"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect x="236" y="65" width="48" height="36" rx="2" ry="2" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path d="M280,65h-1.768L261.351,80.475a2,2,0,0,1-2.7,0L241.768,65H238a2,2,0,0,0-2,2V99a2,2,0,0,0,2,2h3V71l16.3,14.874a4,4,0,0,0,5.392,0L279,71v30h3a2,2,0,0,0,2-2V67a2,2,0,0,0-2-2Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="74" y1="149" x2="126" y2="149" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="188" y1="165" x2="216" y2="165" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="112" y1="44" x2="144" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1967d2"/>
+      <stop offset="0.043" stop-color="#1967d2" stop-opacity="0.942"/>
+      <stop offset="0.305" stop-color="#1967d2" stop-opacity="0.611"/>
+      <stop offset="0.54" stop-color="#1967d2" stop-opacity="0.348"/>
+      <stop offset="0.742" stop-color="#1967d2" stop-opacity="0.159"/>
+      <stop offset="0.902" stop-color="#1967d2" stop-opacity="0.043"/>
+      <stop offset="1" stop-color="#1967d2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="248" y1="98" x2="112" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1967d2"/>
+      <stop offset="1" stop-color="#1967d2" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path d="M236,56H124a12,12,0,0,1-12-12v96a12,12,0,0,0,12,12H236V80a12,12,0,0,0,0-24Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-7" x1="216" y1="118" x2="248" y2="118" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-8" x1="131" y1="168" x2="131" y2="156" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f29900"/>
+      <stop offset="1" stop-color="#f29900" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="93" y1="168" x2="93" y2="156" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5f6368"/>
+      <stop offset="1" stop-color="#5f6368" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="81" y1="162" x2="79" y2="162" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdc1c6"/>
+      <stop offset="1" stop-color="#bdc1c6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="157" y1="168" x2="157" y2="156" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-12" x1="107" y1="168" x2="107" y2="156" xlink:href="#linear-gradient-10"/>
+  </defs>
+  <title>site_sec_B_03</title>
+  <g style="isolation: isolate">
+    <g id="Content">
+      <g>
+        <rect x="13" y="102" width="36" height="6" fill="url(#linear-gradient)" style="mix-blend-mode: multiply"/>
+        <g>
+          <rect x="49" y="24" width="108" height="84" fill="#e8eaed"/>
+          <g>
+            <rect x="103" y="-11" width="1" height="91" transform="translate(138 -69) rotate(90)" fill="#f8f9fa"/>
+            <rect x="103" y="-2" width="1" height="91" transform="translate(147 -60) rotate(90)" fill="#f8f9fa"/>
+            <rect x="103" y="7" width="1" height="91" transform="translate(156 -51) rotate(90)" fill="#f8f9fa"/>
+            <rect x="103" y="16" width="1" height="91" transform="translate(165 -42) rotate(90)" fill="#f8f9fa"/>
+            <rect x="103" y="25" width="1" height="91" transform="translate(174 -33) rotate(90)" fill="#f8f9fa"/>
+            <rect x="103" y="34" width="1" height="91" transform="translate(183 -24) rotate(90)" fill="#f8f9fa"/>
+            <rect x="103" y="43" width="1" height="91" transform="translate(192 -15) rotate(90)" fill="#f8f9fa"/>
+            <rect x="103" y="52" width="1" height="91" transform="translate(201 -6) rotate(90)" fill="#f8f9fa"/>
+            <rect x="58" y="34" width="1" height="64" transform="translate(117 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="67" y="34" width="1" height="64" transform="translate(135 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="76" y="34" width="1" height="64" transform="translate(153 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="85" y="34" width="1" height="64" transform="translate(171 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="94" y="34" width="1" height="64" transform="translate(189 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="103" y="34" width="1" height="64" transform="translate(207 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="112" y="34" width="1" height="64" transform="translate(225 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="121" y="34" width="1" height="64" transform="translate(243 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="130" y="34" width="1" height="64" transform="translate(261 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="139" y="34" width="1" height="64" transform="translate(279 132) rotate(180)" fill="#f8f9fa"/>
+            <rect x="148" y="34" width="1" height="64" transform="translate(297 132) rotate(180)" fill="#f8f9fa"/>
+          </g>
+          <g>
+            <g>
+              <polygon points="103.5 66 103.5 50 87.5 50 103.5 66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <polygon points="103.5 66 87.5 50 71.5 66 103.5 66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="90" y1="53" x2="77" y2="66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="93" y1="56" x2="83" y2="66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="96" y1="59" x2="89" y2="66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="99" y1="62" x2="95" y2="66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+            </g>
+            <g>
+              <polygon points="103.5 66 87.5 66 87.5 82 103.5 66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <polygon points="103.5 66 87.5 82 103.5 98 103.5 66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="90.5" y1="79.5" x2="103.5" y2="92.5" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="93.5" y1="76.5" x2="103.5" y2="86.5" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="96.5" y1="73.5" x2="103.5" y2="80.5" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="99.5" y1="70.5" x2="103.5" y2="74.5" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+            </g>
+            <g>
+              <polygon points="103.5 66 103.5 82 119.5 82 103.5 66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <polygon points="103.5 66 119.5 82 135.5 66 103.5 66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="117" y1="79" x2="130" y2="66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="114" y1="76" x2="124" y2="66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="111" y1="73" x2="118" y2="66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="108" y1="70" x2="112" y2="66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+            </g>
+            <g>
+              <polygon points="103.5 66 119.5 66 119.5 50 103.5 66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <polygon points="103.5 66 119.5 50 103.5 34 103.5 66" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="116.5" y1="52.5" x2="103.5" y2="39.5" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="113.5" y1="55.5" x2="103.5" y2="45.5" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="110.5" y1="58.5" x2="103.5" y2="51.5" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+              <line x1="107.5" y1="61.5" x2="103.5" y2="57.5" fill="none" stroke="#9aa0a6" stroke-linejoin="round"/>
+            </g>
+          </g>
+        </g>
+        <rect x="39" y="164" width="36" height="4" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply"/>
+        <g>
+          <rect x="202" y="40" width="108" height="84" fill="#e8eaed"/>
+          <g>
+            <rect x="256" y="5" width="1" height="91" transform="translate(307 -206) rotate(90)" fill="#f8f9fa"/>
+            <rect x="256" y="14" width="1" height="91" transform="translate(316 -197) rotate(90)" fill="#f8f9fa"/>
+            <rect x="256" y="23" width="1" height="91" transform="translate(325 -188) rotate(90)" fill="#f8f9fa"/>
+            <rect x="256" y="32" width="1" height="91" transform="translate(334 -179) rotate(90)" fill="#f8f9fa"/>
+            <rect x="256" y="41" width="1" height="91" transform="translate(343 -170) rotate(90)" fill="#f8f9fa"/>
+            <rect x="256" y="50" width="1" height="91" transform="translate(352 -161) rotate(90)" fill="#f8f9fa"/>
+            <rect x="256" y="59" width="1" height="91" transform="translate(361 -152) rotate(90)" fill="#f8f9fa"/>
+            <rect x="256" y="68" width="1" height="91" transform="translate(370 -143) rotate(90)" fill="#f8f9fa"/>
+            <rect x="211" y="50" width="1" height="64" transform="translate(423 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="220" y="50" width="1" height="64" transform="translate(441 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="229" y="50" width="1" height="64" transform="translate(459 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="238" y="50" width="1" height="64" transform="translate(477 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="247" y="50" width="1" height="64" transform="translate(495 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="256" y="50" width="1" height="64" transform="translate(513 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="265" y="50" width="1" height="64" transform="translate(531 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="274" y="50" width="1" height="64" transform="translate(549 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="283" y="50" width="1" height="64" transform="translate(567 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="292" y="50" width="1" height="64" transform="translate(585 164) rotate(180)" fill="#f8f9fa"/>
+            <rect x="301" y="50" width="1" height="64" transform="translate(603 164) rotate(180)" fill="#f8f9fa"/>
+          </g>
+          <g>
+            <g clip-path="url(#clip-path)">
+              <path d="M282,66a1,1,0,0,1,1,1V99a1,1,0,0,1-1,1h-2V71a1,1,0,0,0-1.674-.739l-16.3,14.874a3,3,0,0,1-4.043,0l-16.3-14.874A1,1,0,0,0,240,71v29h-2a1,1,0,0,1-1-1V67a1,1,0,0,1,1-1h3.379l16.594,15.212a3,3,0,0,0,4.055,0L278.621,66H282m0-1h-3.768L261.352,80.475a2,2,0,0,1-2.7,0L241.768,65H238a2,2,0,0,0-2,2V99a2,2,0,0,0,2,2h3V71l16.3,14.874a4,4,0,0,0,5.392,0L279,71v30h3a2,2,0,0,0,2-2V67a2,2,0,0,0-2-2Z" fill="#9aa0a6"/>
+              <path d="M283,66v34H237V66h46m1-1H236v36h48V65Z" fill="#9aa0a6"/>
+            </g>
+            <g clip-path="url(#clip-path-2)">
+              <g>
+                <rect x="233" y="68" width="54" height="1" fill="#9aa0a6"/>
+                <rect x="233" y="72" width="54" height="1" fill="#9aa0a6"/>
+                <rect x="233" y="76" width="54" height="1" fill="#9aa0a6"/>
+                <rect x="233" y="80" width="54" height="1" fill="#9aa0a6"/>
+                <rect x="233" y="84" width="54" height="1" fill="#9aa0a6"/>
+                <rect x="233" y="88" width="54" height="1" fill="#9aa0a6"/>
+                <rect x="233" y="92" width="54" height="1" fill="#9aa0a6"/>
+                <rect x="233" y="96" width="54" height="1" fill="#9aa0a6"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <rect x="74" y="146" width="52" height="6" fill="url(#linear-gradient-3)" style="mix-blend-mode: multiply"/>
+          <path d="M112,44h12a0,0,0,0,1,0,0V152a0,0,0,0,1,0,0h0a12,12,0,0,1-12-12V44a0,0,0,0,1,0,0Z" fill="#4285f4"/>
+          <rect x="188" y="162" width="28" height="6" fill="url(#linear-gradient-4)" style="mix-blend-mode: multiply"/>
+          <path d="M124,32h20a0,0,0,0,1,0,0V56a0,0,0,0,1,0,0H124a12,12,0,0,1-12-12v0A12,12,0,0,1,124,32Z" fill="#aecbfa"/>
+          <path d="M144,56H124a12,12,0,0,1-12-12h0a12,12,0,0,1,12-12h20Z" opacity="0.5" fill="url(#linear-gradient-5)" style="mix-blend-mode: multiply"/>
+          <path d="M236,56H124a12,12,0,0,1-12-12v96a12,12,0,0,0,12,12H236V80a12,12,0,0,0,0-24Z" fill="#4285f4"/>
+          <path d="M236,56H124a12,12,0,0,1-12-12v96a12,12,0,0,0,12,12H236V80a12,12,0,0,0,0-24Z" opacity="0.5" fill="url(#linear-gradient-6)" style="mix-blend-mode: multiply"/>
+          <g clip-path="url(#clip-path-3)">
+            <g>
+              <g>
+                <path d="M120.5,63A11.513,11.513,0,0,1,109,51.5h-1A12.514,12.514,0,0,0,120.5,64h.5V63Z" fill="#669df6"/>
+                <path d="M120.5,72A11.513,11.513,0,0,1,109,60.5h-1A12.514,12.514,0,0,0,120.5,73h.5V72Z" fill="#669df6"/>
+                <path d="M120.5,81A11.513,11.513,0,0,1,109,69.5h-1A12.514,12.514,0,0,0,120.5,82h.5V81Z" fill="#669df6"/>
+                <path d="M120.5,90A11.513,11.513,0,0,1,109,78.5h-1A12.514,12.514,0,0,0,120.5,91h.5V90Z" fill="#669df6"/>
+                <path d="M120.5,99A11.513,11.513,0,0,1,109,87.5h-1A12.514,12.514,0,0,0,120.5,100h.5V99Z" fill="#669df6"/>
+                <path d="M120.5,108A11.513,11.513,0,0,1,109,96.5h-1A12.514,12.514,0,0,0,120.5,109h.5v-1Z" fill="#669df6"/>
+                <path d="M120.5,117A11.513,11.513,0,0,1,109,105.5h-1A12.514,12.514,0,0,0,120.5,118h.5v-1Z" fill="#669df6"/>
+                <path d="M120.5,126A11.513,11.513,0,0,1,109,114.5h-1A12.514,12.514,0,0,0,120.5,127h.5v-1Z" fill="#669df6"/>
+                <path d="M120.5,135A11.513,11.513,0,0,1,109,123.5h-1A12.514,12.514,0,0,0,120.5,136h.5v-1Z" fill="#669df6"/>
+                <path d="M120.5,144A11.513,11.513,0,0,1,109,132.5h-1A12.514,12.514,0,0,0,120.5,145h.5v-1Z" fill="#669df6"/>
+              </g>
+              <g>
+                <path d="M239.5,145A11.513,11.513,0,0,1,251,156.5h1A12.514,12.514,0,0,0,239.5,144H239v1Z" fill="#669df6"/>
+                <path d="M239.5,136A11.513,11.513,0,0,1,251,147.5h1A12.514,12.514,0,0,0,239.5,135H239v1Z" fill="#669df6"/>
+                <path d="M239.5,127A11.513,11.513,0,0,1,251,138.5h1A12.514,12.514,0,0,0,239.5,126H239v1Z" fill="#669df6"/>
+                <path d="M239.5,118A11.513,11.513,0,0,1,251,129.5h1A12.514,12.514,0,0,0,239.5,117H239v1Z" fill="#669df6"/>
+                <path d="M239.5,109A11.513,11.513,0,0,1,251,120.5h1A12.514,12.514,0,0,0,239.5,108H239v1Z" fill="#669df6"/>
+                <path d="M239.5,100A11.513,11.513,0,0,1,251,111.5h1A12.514,12.514,0,0,0,239.5,99H239v1Z" fill="#669df6"/>
+                <path d="M239.5,91A11.513,11.513,0,0,1,251,102.5h1A12.514,12.514,0,0,0,239.5,90H239v1Z" fill="#669df6"/>
+                <path d="M239.5,82A11.513,11.513,0,0,1,251,93.5h1A12.514,12.514,0,0,0,239.5,81H239v1Z" fill="#669df6"/>
+                <path d="M239.5,73A11.513,11.513,0,0,1,251,84.5h1A12.514,12.514,0,0,0,239.5,72H239v1Z" fill="#669df6"/>
+                <path d="M239.5,64A11.513,11.513,0,0,1,251,75.5h1A12.514,12.514,0,0,0,239.5,63H239v1Z" fill="#669df6"/>
+              </g>
+              <g>
+                <rect x="121" y="63" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="72" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="81" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="90" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="99" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="108" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="117" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="126" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="135" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="144" width="118" height="1" fill="#669df6"/>
+                <rect x="121" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="130" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="139" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="148" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="157" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="166" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="175" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="184" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="193" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="202" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="211" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="220" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="229" y="63" width="1" height="82" fill="#669df6"/>
+                <rect x="238" y="63" width="1" height="82" fill="#669df6"/>
+              </g>
+            </g>
+          </g>
+          <path d="M236,80H216v88h20a12,12,0,0,0,12-12V68A12,12,0,0,1,236,80Z" fill="#aecbfa"/>
+          <path d="M236,80H216v88h20a12,12,0,0,0,12-12V68A12,12,0,0,1,236,80Z" opacity="0.5" fill="url(#linear-gradient-7)" style="mix-blend-mode: multiply"/>
+          <path d="M171,73a31,31,0,1,1-31,31,31.035,31.035,0,0,1,31-31m0-1a32,32,0,1,0,32,32,32,32,0,0,0-32-32Z" fill="#fff"/>
+          <path d="M171,87a17,17,0,1,1-17,17,17.019,17.019,0,0,1,17-17m0-1a18,18,0,1,0,18,18,18,18,0,0,0-18-18Z" fill="#fff"/>
+          <line x1="139.5" y1="72.5" x2="202.5" y2="135.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10"/>
+          <line x1="202.5" y1="72.5" x2="139.5" y2="135.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10"/>
+        </g>
+        <g>
+          <rect x="79" y="158" width="2" height="8" fill="#9aa0a6"/>
+          <rect x="109" y="156" width="44" height="12" fill="#fbbc04"/>
+          <rect x="109" y="156" width="44" height="12" opacity="0.5" fill="url(#linear-gradient-8)" style="mix-blend-mode: multiply"/>
+          <path d="M83,156h22a0,0,0,0,1,0,0v12a0,0,0,0,1,0,0H83a2,2,0,0,1-2-2v-8A2,2,0,0,1,83,156Z" fill="#3c4043"/>
+          <path d="M153,156h6a2,2,0,0,1,2,2v8a2,2,0,0,1-2,2h-6a0,0,0,0,1,0,0V156A0,0,0,0,1,153,156Z" fill="#9aa0a6"/>
+          <rect x="105" y="156" width="4" height="12" fill="#9aa0a6"/>
+          <path d="M105,168H83a2,2,0,0,1-2-2v-8a2,2,0,0,1,2-2h22Z" opacity="0.5" fill="url(#linear-gradient-9)" style="mix-blend-mode: multiply"/>
+          <rect x="79" y="158" width="2" height="8" opacity="0.5" fill="url(#linear-gradient-10)" style="mix-blend-mode: multiply"/>
+          <path d="M159,168h-6V156h6a2,2,0,0,1,2,2v8A2,2,0,0,1,159,168Z" opacity="0.5" fill="url(#linear-gradient-11)" style="mix-blend-mode: multiply"/>
+          <rect x="105" y="156" width="4" height="12" opacity="0.5" fill="url(#linear-gradient-12)" style="mix-blend-mode: multiply"/>
+          <path d="M75,156l-15,5.5H72.092a1.5,1.5,0,1,1,0,1H60L75,168l4-2v-8Z" fill="#dadce0"/>
+        </g>
+        <rect width="360" height="204" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

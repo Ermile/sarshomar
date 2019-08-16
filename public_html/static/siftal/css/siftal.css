@@ -1468,6 +1468,25 @@ a.badge.danger {
 [class^="sf-"].vltop:before {
   vertical-align: top; }
 
+[class^="sf-"].style1 {
+  background-color: #eee;
+  padding: 5px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  line-height: 32px;
+  font-size: 1.2em;
+  display: block;
+  margin: 0 auto; }
+
+[class^="sf-"].style2 {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  background-color: #eee;
+  border-radius: 30%;
+  display: inline-block; }
+
 @-webkit-keyframes spiny {
   from {
     transform: rotate(0deg);
@@ -2178,6 +2197,9 @@ progress.xl, meter.xl {
 .rtl .tbl1 tr th:first-of-type, .rtl .tbl1 tr td:first-of-type {
   padding-right: 3rem; }
 
+.tbl1 tr th {
+  width: 200px; }
+
 .tbl1.txtC th, .tbl1.txtC td {
   text-align: center; }
 
@@ -2275,10 +2297,10 @@ progress.xl, meter.xl {
 .tbl1.v4 tr {
   border-bottom: 1px solid #f2f2f2; }
 
-.ltr .tbl1.v4 tr th:first-of-type, .ltr .tbl1.v4 tr td:first-of-type {
+.ltr .tbl1.v4 tr td:first-of-type {
   padding-left: 1rem; }
 
-.rtl .tbl1.v4 tr th:first-of-type, .rtl .tbl1.v4 tr td:first-of-type {
+.rtl .tbl1.v4 tr td:first-of-type {
   padding-right: 1rem; }
 
 .ltr .tbl1.v4 th.collapsing, .ltr .tbl1.v4 td.collapsing {
@@ -4606,6 +4628,86 @@ body.errorPage.s50 {
   right: 0;
   overflow: hidden;
   z-index: 0; }
+
+.device48 {
+  width: 48px;
+  height: 48px; }
+
+.device48[data-device='mobile'] {
+  background: no-repeat url("../images/account/devices48.png") 0 -441px;
+  background-size: 48px 783px; }
+
+.device48[data-device='android'] {
+  background: no-repeat url("../images/account/devices48.png") 0 -294px;
+  background-size: 48px 783px; }
+
+.device48[data-device='iphone'] {
+  background: no-repeat url("../images/account/devices48.png") 0 -735px;
+  background-size: 48px 783px; }
+
+.device48[data-device='windows'] {
+  background: no-repeat url("../images/account/devices48.png") 0 -147px;
+  background-size: 48px 783px; }
+
+.device48[data-device='linux'] {
+  background: no-repeat url("../images/account/devices48.png") 0 -539px;
+  background-size: 48px 783px; }
+
+.device48[data-device='mac'] {
+  background: no-repeat url("../images/account/devices48.png") 0 -343px;
+  background-size: 48px 783px; }
+
+.device48[data-device='chromebook'] {
+  background: no-repeat url("../images/account/devices48.png") 0 -49px;
+  background-size: 48px 783px; }
+
+.device48[data-device='androidtablet'] {
+  background: no-repeat url("../images/account/devices48.png") 0 -98px;
+  background-size: 48px 783px; }
+
+.device48[data-device='ipad'] {
+  background: no-repeat url("../images/account/devices48.png") 0 -245px;
+  background-size: 48px 783px; }
+
+.device72 {
+  width: 72px;
+  height: 72px; }
+
+.device72[data-device='mobile'] {
+  background: no-repeat url("../images/account/devices72.png") 0 -657px;
+  background-size: 72px 1167px; }
+
+.device72[data-device='android'] {
+  background: no-repeat url("../images/account/devices72.png") 0 -438px;
+  background-size: 72px 1167px; }
+
+.device72[data-device='iphone'] {
+  background: no-repeat url("../images/account/devices72.png") 0 -1095px;
+  background-size: 72px 1167px; }
+
+.device72[data-device='windows'] {
+  background: no-repeat url("../images/account/devices72.png") 0 -219px;
+  background-size: 72px 1167px; }
+
+.device72[data-device='linux'] {
+  background: no-repeat url("../images/account/devices72.png") 0 -803px;
+  background-size: 72px 1167px; }
+
+.device72[data-device='mac'] {
+  background: no-repeat url("../images/account/devices72.png") 0 -511px;
+  background-size: 72px 1167px; }
+
+.device72[data-device='chromebook'] {
+  background: no-repeat url("../images/account/devices72.png") 0 -73px;
+  background-size: 72px 1167px; }
+
+.device72[data-device='androidtablet'] {
+  background: no-repeat url("../images/account/devices72.png") 0 -146px;
+  background-size: 72px 1167px; }
+
+.device72[data-device='ipad'] {
+  background: no-repeat url("../images/account/devices72.png") 0 -365px;
+  background-size: 72px 1167px; }
 
 .scr::-webkit-scrollbar {
   width: 10px;
@@ -20056,6 +20158,12 @@ body .we500 {
   -ms-border-radius: 10rem;
   border-radius: 10rem; }
 
+.box50 {
+  display: block;
+  margin: 0 auto;
+  max-width: 50px;
+  overflow: hidden; }
+
 .box100 {
   display: block;
   margin: 0 auto;
@@ -20072,6 +20180,48 @@ body .we500 {
   display: block;
   margin: 0 auto;
   max-width: 300px;
+  overflow: hidden; }
+
+.box400 {
+  display: block;
+  margin: 0 auto;
+  max-width: 400px;
+  overflow: hidden; }
+
+.box500 {
+  display: block;
+  margin: 0 auto;
+  max-width: 500px;
+  overflow: hidden; }
+
+.box600 {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  overflow: hidden; }
+
+.box700 {
+  display: block;
+  margin: 0 auto;
+  max-width: 700px;
+  overflow: hidden; }
+
+.box800 {
+  display: block;
+  margin: 0 auto;
+  max-width: 800px;
+  overflow: hidden; }
+
+.box900 {
+  display: block;
+  margin: 0 auto;
+  max-width: 900px;
+  overflow: hidden; }
+
+.box1000 {
+  display: block;
+  margin: 0 auto;
+  max-width: 1000px;
   overflow: hidden; }
 
 [data-confirm] {
@@ -20909,57 +21059,6 @@ body.siftal .full .middle {
 .siftal[data-in="api"] .cbox ol li {
   padding: 0.5em 0 0; }
 
-.tbl1.openable th.type, .tbl1.openable td.type {
-  width: 60px;
-  text-align: center; }
-
-.tbl1.openable th.subject, .tbl1.openable td.subject {
-  width: 70%; }
-
-.tbl1.openable th.date, .tbl1.openable td.date {
-  max-width: 150px; }
-
-.tbl1.openable th.via, .tbl1.openable td.via {
-  width: 75px; }
-
-.tbl1.openable td.type i {
-  background-color: #eee;
-  padding: 5px;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  line-height: 32px;
-  font-size: 1.2em;
-  display: block;
-  margin: 0 auto; }
-
-.tbl1.openable tbody tr {
-  cursor: pointer; }
-
-.tbl1.openable tbody tr[data-open-disable] {
-  cursor: auto; }
-
-.tbl1.openable tbody tr [data-openable-open] {
-  display: none; }
-
-.tbl1.openable tbody tr td.subject .title {
-  font-weight: 700;
-  margin-bottom: 0.5em;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap; }
-
-.tbl1.openable tbody tr[data-open] td.subject .title {
-  white-space: normal; }
-
-.tbl1.openable tbody tr td.via i {
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
-  background-color: #eee;
-  border-radius: 30%;
-  display: inline-block; }
-
 .siftal .alerty2-popup .langlist a {
   border: 1px solid #eee;
   padding: 0.5em 1em;
@@ -21392,7 +21491,7 @@ body.siftal .full .middle {
   line-height: 1.5em; }
 
 .siftal #sidebar ul > li > a > i {
-  font-size: 1.2em;
+  font-size: 1.4em;
   display: inline-block;
   margin: 0 0.5em 0 0; }
 

@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="204" viewBox="0 0 360 204">
+  <defs>
+    <linearGradient id="linear-gradient" x1="12" y1="143" x2="32" y2="143" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9aa0a6" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#9aa0a6" stop-opacity="0.025"/>
+      <stop offset="0.306" stop-color="#9aa0a6" stop-opacity="0.1"/>
+      <stop offset="0.464" stop-color="#9aa0a6" stop-opacity="0.225"/>
+      <stop offset="0.624" stop-color="#9aa0a6" stop-opacity="0.4"/>
+      <stop offset="0.786" stop-color="#9aa0a6" stop-opacity="0.626"/>
+      <stop offset="0.946" stop-color="#9aa0a6" stop-opacity="0.898"/>
+      <stop offset="1" stop-color="#9aa0a6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="72" y1="165" x2="144" y2="165" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdc1c6" stop-opacity="0"/>
+      <stop offset="0.137" stop-color="#bdc1c6" stop-opacity="0.021"/>
+      <stop offset="0.279" stop-color="#bdc1c6" stop-opacity="0.084"/>
+      <stop offset="0.424" stop-color="#bdc1c6" stop-opacity="0.189"/>
+      <stop offset="0.57" stop-color="#bdc1c6" stop-opacity="0.336"/>
+      <stop offset="0.718" stop-color="#bdc1c6" stop-opacity="0.525"/>
+      <stop offset="0.864" stop-color="#bdc1c6" stop-opacity="0.753"/>
+      <stop offset="1" stop-color="#bdc1c6"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="144" cy="112" r="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdc1c6"/>
+      <stop offset="0.392" stop-color="#bdc1c6" stop-opacity="0.991"/>
+      <stop offset="0.533" stop-color="#bdc1c6" stop-opacity="0.956"/>
+      <stop offset="0.634" stop-color="#bdc1c6" stop-opacity="0.896"/>
+      <stop offset="0.715" stop-color="#bdc1c6" stop-opacity="0.811"/>
+      <stop offset="0.785" stop-color="#bdc1c6" stop-opacity="0.7"/>
+      <stop offset="0.847" stop-color="#bdc1c6" stop-opacity="0.563"/>
+      <stop offset="0.903" stop-color="#bdc1c6" stop-opacity="0.399"/>
+      <stop offset="0.952" stop-color="#bdc1c6" stop-opacity="0.215"/>
+      <stop offset="0.998" stop-color="#bdc1c6" stop-opacity="0.008"/>
+      <stop offset="1" stop-color="#bdc1c6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="144" cy="112" r="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdc1c6" stop-opacity="0"/>
+      <stop offset="0.392" stop-color="#bdc1c6" stop-opacity="0.009"/>
+      <stop offset="0.533" stop-color="#bdc1c6" stop-opacity="0.044"/>
+      <stop offset="0.634" stop-color="#bdc1c6" stop-opacity="0.104"/>
+      <stop offset="0.715" stop-color="#bdc1c6" stop-opacity="0.189"/>
+      <stop offset="0.785" stop-color="#bdc1c6" stop-opacity="0.3"/>
+      <stop offset="0.847" stop-color="#bdc1c6" stop-opacity="0.437"/>
+      <stop offset="0.903" stop-color="#bdc1c6" stop-opacity="0.601"/>
+      <stop offset="0.952" stop-color="#bdc1c6" stop-opacity="0.785"/>
+      <stop offset="0.998" stop-color="#bdc1c6" stop-opacity="0.992"/>
+      <stop offset="1" stop-color="#bdc1c6"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-3" x1="298.762" y1="68.762" x2="316.262" y2="51.262" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#174ea6"/>
+      <stop offset="0.054" stop-color="#174ea6" stop-opacity="0.898"/>
+      <stop offset="0.214" stop-color="#174ea6" stop-opacity="0.626"/>
+      <stop offset="0.375" stop-color="#174ea6" stop-opacity="0.4"/>
+      <stop offset="0.535" stop-color="#174ea6" stop-opacity="0.225"/>
+      <stop offset="0.693" stop-color="#174ea6" stop-opacity="0.1"/>
+      <stop offset="0.849" stop-color="#174ea6" stop-opacity="0.025"/>
+      <stop offset="0.999" stop-color="#174ea6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="261" y1="143" x2="285" y2="143" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <title>site_sec_E</title>
+  <g style="isolation: isolate">
+    <g id="Content">
+      <g>
+        <g>
+          <rect x="188" y="56" width="104" height="72" rx="6" ry="6" fill="#dadce0"/>
+          <rect x="196" y="60" width="84" height="64" fill="#fff"/>
+          <rect x="191.5" y="86" width="1" height="12" rx="0.5" ry="0.5" fill="#bdc1c6"/>
+          <circle cx="286" cy="92" r="2" fill="none" stroke="#bdc1c6" stroke-miterlimit="10"/>
+          <g>
+            <g>
+              <rect x="204" y="96" width="68" height="18" rx="2" ry="2" fill="#dadce0"/>
+              <g>
+                <line x1="246" y1="101" x2="246" y2="109" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="243.172" y1="102.172" x2="248.828" y2="107.828" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="242" y1="105" x2="250" y2="105" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="243.172" y1="107.828" x2="248.828" y2="102.172" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+              <g>
+                <line x1="230" y1="101" x2="230" y2="109" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="227.172" y1="102.172" x2="232.828" y2="107.828" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="226" y1="105" x2="234" y2="105" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="227.172" y1="107.828" x2="232.828" y2="102.172" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+              <g>
+                <line x1="214" y1="101" x2="214" y2="109" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="211.172" y1="102.172" x2="216.828" y2="107.828" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="210" y1="105" x2="218" y2="105" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="211.172" y1="107.828" x2="216.828" y2="102.172" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+              <g>
+                <line x1="262" y1="101" x2="262" y2="109" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="259.172" y1="102.172" x2="264.828" y2="107.828" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="258" y1="105" x2="266" y2="105" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="259.172" y1="107.828" x2="264.828" y2="102.172" fill="none" stroke="#9aa0a6" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+            </g>
+            <g>
+              <circle cx="239" cy="80" r="8" fill="#34a853"/>
+              <polyline points="235.5 80.6 237.9 83 242.5 77" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <rect x="12" y="140" width="20" height="6" fill="url(#linear-gradient)" style="mix-blend-mode: multiply"/>
+          <g>
+            <rect x="30" y="74" width="64" height="72" rx="2" ry="2" fill="#dadce0"/>
+            <rect x="44" y="83" width="36" height="3" rx="1.5" ry="1.5" fill="#bdc1c6"/>
+            <rect x="48" y="118" width="28" height="2" rx="1" ry="1" fill="#bdc1c6"/>
+            <g>
+              <path id="Shield_Shape_512dp" data-name="Shield Shape 512dp" d="M62,113a13.6,13.6,0,0,0,7.827-10.494A20.019,20.019,0,0,0,70,100.253V95l-8-3-8,3v5.253a20.03,20.03,0,0,0,.173,2.254A13.6,13.6,0,0,0,62,113Z" fill="#4285f4"/>
+              <g>
+                <rect x="59" y="101" width="6" height="5" rx="0.251" ry="0.251" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M62,97h0a2,2,0,0,1,2,2v2a0,0,0,0,1,0,0H60a0,0,0,0,1,0,0V99A2,2,0,0,1,62,97Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10"/>
+              </g>
+              <circle cx="69" cy="106" r="4" fill="#34a853"/>
+            </g>
+            <circle cx="41" cy="129" r="3" fill="#34a853"/>
+            <rect x="48" y="124" width="12" height="2" rx="1" ry="1" fill="#bdc1c6"/>
+            <rect x="48" y="130" width="38" height="2" rx="1" ry="1" fill="#f1f3f4"/>
+            <rect x="48" y="136" width="26" height="2" rx="1" ry="1" fill="#f1f3f4"/>
+          </g>
+        </g>
+        <rect x="72" y="162" width="72" height="6" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply"/>
+        <g>
+          <circle cx="144" cy="112" r="56" fill="#bdc1c6"/>
+          <circle cx="144" cy="112" r="56" opacity="0.5" fill="url(#radial-gradient)" style="mix-blend-mode: multiply"/>
+          <circle cx="144" cy="112" r="48" fill="#bdc1c6"/>
+          <circle cx="144" cy="112" r="48" opacity="0.5" fill="url(#radial-gradient-2)" style="mix-blend-mode: multiply"/>
+          <circle cx="144" cy="112" r="48" fill="none" stroke="#bdc1c6" stroke-miterlimit="10" stroke-width="4"/>
+          <path d="M144,84a28,28,0,1,1-28,28,28.032,28.032,0,0,1,28-28m0-2a30,30,0,1,0,30,30,30,30,0,0,0-30-30Z" fill="#9aa0a6"/>
+          <path id="Shield_Shape_512dp-2" data-name="Shield Shape 512dp" d="M144,125a16.994,16.994,0,0,0,9.784-13.117,25.024,25.024,0,0,0,.216-2.817V102.01L144,99l-10,3.01v7.056a25.037,25.037,0,0,0,.216,2.817A16.994,16.994,0,0,0,144,125Z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+          <circle cx="144" cy="74" r="3" fill="#9aa0a6"/>
+          <circle cx="117.13" cy="85.13" r="3" transform="translate(-25.889 107.757) rotate(-45)" fill="#9aa0a6"/>
+          <circle cx="106" cy="112" r="3" fill="#9aa0a6"/>
+          <circle cx="117.13" cy="138.87" r="3" transform="translate(-63.889 123.497) rotate(-45)" fill="#9aa0a6"/>
+          <circle cx="144" cy="150" r="3" fill="#9aa0a6"/>
+          <circle cx="170.87" cy="138.87" r="3" transform="translate(-48.149 161.497) rotate(-45)" fill="#9aa0a6"/>
+          <circle cx="182" cy="112" r="3" fill="#9aa0a6"/>
+          <circle cx="170.87" cy="85.13" r="3" transform="translate(-10.149 145.757) rotate(-45)" fill="#9aa0a6"/>
+        </g>
+        <g>
+          <path d="M308,46h16a12,12,0,0,1,0,24h-8l-8,8V70a12,12,0,0,1,0-24Z" fill="#4285f4"/>
+          <g>
+            <rect x="307" y="51" width="18" height="14" rx="1" ry="1" fill="#fff"/>
+            <polygon points="324 52 316 58 308 52 324 52" fill="#4285f4"/>
+            <polygon points="324 53.5 316 59.5 308 53.5 308 64 324 64 324 53.5" fill="#4285f4"/>
+          </g>
+          <path d="M311,75V70a12,12,0,0,1,0-24h-3a12,12,0,0,0,0,24v8Z" opacity="0.3" fill="url(#linear-gradient-3)" style="mix-blend-mode: multiply"/>
+        </g>
+        <rect width="360" height="204" fill="none"/>
+        <g>
+          <rect x="261" y="140" width="24" height="6" fill="url(#linear-gradient-4)" style="mix-blend-mode: multiply"/>
+          <g>
+            <g>
+              <path d="M280,141a5,5,0,0,0,5,5h26a5,5,0,0,0,5-5v-3H280Z" fill="#bdc1c6"/>
+              <path d="M311,82H285a5,5,0,0,0-5,5v3h36V87A5,5,0,0,0,311,82Z" fill="#bdc1c6"/>
+              <rect x="280" y="90" width="36" height="48" fill="#e8eaed"/>
+            </g>
+            <rect x="297.5" y="81.5" width="1" height="10" rx="0.5" ry="0.5" transform="translate(384.5 -211.5) rotate(90)" fill="#9aa0a6"/>
+            <g>
+              <line x1="286" y1="110" x2="286" y2="118" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+              <g>
+                <line x1="294" y1="110" x2="294" y2="114" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="294" y1="110" x2="290" y2="110" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="294" y1="114" x2="290" y2="114" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="290" y1="114" x2="290" y2="118" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="294" y1="118" x2="290" y2="118" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+              <g>
+                <line x1="302" y1="110" x2="302" y2="114" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="302" y1="110" x2="298" y2="110" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="302" y1="114" x2="298" y2="114" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="302" y1="114" x2="302" y2="118" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="302" y1="118" x2="298" y2="118" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+              <g>
+                <polyline points="306 110 306 114 310 114 310 110" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="310" y1="114" x2="310" y2="118" fill="none" stroke="#4285f4" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
