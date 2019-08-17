@@ -20161,67 +20161,67 @@ body .we500 {
 .box50 {
   display: block;
   margin: 0 auto;
-  max-width: 50px;
+  width: 50px;
   overflow: hidden; }
 
 .box100 {
   display: block;
   margin: 0 auto;
-  max-width: 100px;
+  width: 100px;
   overflow: hidden; }
 
 .box200 {
   display: block;
   margin: 0 auto;
-  max-width: 200px;
+  width: 200px;
   overflow: hidden; }
 
 .box300 {
   display: block;
   margin: 0 auto;
-  max-width: 300px;
+  width: 300px;
   overflow: hidden; }
 
 .box400 {
   display: block;
   margin: 0 auto;
-  max-width: 400px;
+  width: 400px;
   overflow: hidden; }
 
 .box500 {
   display: block;
   margin: 0 auto;
-  max-width: 500px;
+  width: 500px;
   overflow: hidden; }
 
 .box600 {
   display: block;
   margin: 0 auto;
-  max-width: 600px;
+  width: 600px;
   overflow: hidden; }
 
 .box700 {
   display: block;
   margin: 0 auto;
-  max-width: 700px;
+  width: 700px;
   overflow: hidden; }
 
 .box800 {
   display: block;
   margin: 0 auto;
-  max-width: 800px;
+  width: 800px;
   overflow: hidden; }
 
 .box900 {
   display: block;
   margin: 0 auto;
-  max-width: 900px;
+  width: 900px;
   overflow: hidden; }
 
 .box1000 {
   display: block;
   margin: 0 auto;
-  max-width: 1000px;
+  width: 1000px;
   overflow: hidden; }
 
 [data-confirm] {
@@ -20697,6 +20697,7 @@ body .we500 {
 
 .siftal #main {
   min-height: 100%;
+  overflow: hidden;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -ms-transition: all 0.2s ease-out;
