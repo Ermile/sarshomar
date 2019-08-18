@@ -2206,11 +2206,11 @@ progress.xl, meter.xl {
 /*================================================================== [ v1 ]*/
 .tbl1.v1 {
   border-radius: 1rem;
-  box-shadow: 0 0px 3em 0px rgba(0, 0, 0, 0.15);
-  -moz-box-shadow: 0 0px 3em 0px rgba(0, 0, 0, 0.15);
-  -webkit-box-shadow: 0 0px 3em 0px rgba(0, 0, 0, 0.15);
-  -o-box-shadow: 0 0px 3em 0px rgba(0, 0, 0, 0.15);
-  -ms-box-shadow: 0 0px 3em 0px rgba(0, 0, 0, 0.15); }
+  box-shadow: 0 0px 1.5em 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0 0px 1.5em 0px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0 0px 1.5em 0px rgba(0, 0, 0, 0.15);
+  -o-box-shadow: 0 0px 1.5em 0px rgba(0, 0, 0, 0.15);
+  -ms-box-shadow: 0 0px 1.5em 0px rgba(0, 0, 0, 0.15); }
 
 .tbl1.v1 thead {
   color: #fff;
@@ -20761,39 +20761,6 @@ body .we500 {
 .siftal #main:hover:after {
   color: #eee; }
 
-.siftal #sidebar {
-  overflow: hidden;
-  overflow-y: auto;
-  width: 250px;
-  height: 100%;
-  position: relative;
-  background-color: #302b2b;
-  -webkit-touch-callout: none;
-  -khtml-user-select: none;
-  -ms-user-select: none;
-  cursor: default;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  z-index: 10;
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  -ms-transition: all 0.2s ease-out;
-  -o-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
-  transition: all 200ms cubic-bezier(0.694, 0.0482, 0.335, 1);
-  transition-property: right,left;
-  transform: translateX(0); }
-
-.siftal.ltr #sidebar {
-  left: 0; }
-
-.siftal.rtl #sidebar {
-  right: 0; }
-
 .siftal[data-clean].ltr #main {
   margin-left: 0; }
 
@@ -20935,99 +20902,6 @@ body.siftal .full .middle {
   overflow: hidden;
   max-width: 120px; }
 
-.siftal[data-in="su"] {
-  background: none;
-  background-color: #333; }
-
-.siftal[data-in="su"] .dashHead {
-  background-color: #111;
-  box-shadow: 0 1px 5px rgba(255, 255, 255, 0.2); }
-
-.siftal[data-in="su"] .tbox {
-  background-color: #111;
-  color: #bbb; }
-
-.siftal[data-in="su"] .tbox:hover {
-  border-color: #444; }
-
-.siftal[data-in="su"] .tbox .badge.light {
-  background-color: #555;
-  color: #bbb; }
-
-.siftal[data-in="su"] .cbox {
-  background-color: #222;
-  color: #aaa; }
-
-.siftal[data-in="su"] .dcard {
-  background-color: rgba(0, 0, 0, 0.3);
-  color: #aaa; }
-
-.siftal[data-in="su"] .chart rect.highcharts-background {
-  fill: #111; }
-
-.siftal[data-in="su"] .chart rect.highcharts-button-box {
-  fill: #222; }
-
-.siftal[data-in="su"] .chart path.highcharts-axis-line {
-  stroke: #000; }
-
-.siftal[data-in="su"] .chart path.highcharts-grid-line {
-  stroke: #000; }
-
-.siftal[data-in="su"] .msg {
-  background-color: #444;
-  color: #ddd; }
-
-.siftal[data-in="su"] .input {
-  color: #777; }
-
-.siftal[data-in="su"] .input input {
-  background-color: #000;
-  color: #eee; }
-
-.siftal[data-in="su"] .input .addon:not(.btn) {
-  color: #bbb; }
-
-.siftal[data-in="su"] .select {
-  background-color: #000;
-  color: #eee; }
-
-.siftal[data-in="su"] .txt {
-  background-color: #000;
-  color: #bbb; }
-
-.siftal[data-in="su"] .txt:hover {
-  border-color: #777; }
-
-.siftal[data-in="su"] .switch1 label:first-of-type {
-  background-color: #555; }
-
-.siftal[data-in="su"] .switch1 input:checked + label:first-of-type {
-  background-color: #225c8a; }
-
-.siftal[data-in="su"] .input input:focus, .siftal[data-in="su"] .input.focus input {
-  border-color: #777; }
-
-.siftal[data-in="su"] .select:focus, .siftal[data-in="su"] .select.focus {
-  border-color: #777; }
-
-.siftal[data-in="su"] .btn {
-  background-color: #333;
-  color: #ccc; }
-
-.siftal[data-in="su"] .dark.outline {
-  color: #ccc; }
-
-.siftal[data-in="su"] .pagination {
-  background-color: #000; }
-
-.siftal[data-in="su"] .pagination a {
-  color: #ccc; }
-
-.siftal[data-in="su"] .pagination a:link:hover {
-  color: #eee;
-  background-color: #333; }
-
 .siftal[data-in="api"] body {
   background-color: #eee; }
 
@@ -21117,6 +20991,167 @@ body.siftal .full .middle {
 
 .rtl .ck.ck-labeled-input .ck-labeled-input__status {
   font-family: IRANSans, tahoma; }
+
+.siftal[data-theme="night"] {
+  background: none;
+  background-color: #333; }
+
+.siftal[data-theme="night"] .dashHead {
+  background-color: #111;
+  box-shadow: 0 1px 5px rgba(255, 255, 255, 0.2); }
+
+.siftal[data-theme="night"] .tbox {
+  background-color: #111;
+  color: #bbb; }
+
+.siftal[data-theme="night"] .tbox:hover {
+  border-color: #444; }
+
+.siftal[data-theme="night"] .tbox .badge.light {
+  background-color: #555;
+  color: #bbb; }
+
+.siftal[data-theme="night"] .cbox {
+  background-color: #222;
+  color: #aaa; }
+
+.siftal[data-theme="night"] .dcard {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #aaa; }
+
+.siftal[data-theme="night"] .chart rect.highcharts-background {
+  fill: #111; }
+
+.siftal[data-theme="night"] .chart rect.highcharts-button-box {
+  fill: #222; }
+
+.siftal[data-theme="night"] .chart path.highcharts-axis-line {
+  stroke: #000; }
+
+.siftal[data-theme="night"] .chart path.highcharts-grid-line {
+  stroke: #000; }
+
+.siftal[data-theme="night"] .msg {
+  background-color: #444;
+  color: #ddd; }
+
+.siftal[data-theme="night"] .input {
+  color: #777; }
+
+.siftal[data-theme="night"] .input input {
+  background-color: #000;
+  color: #eee; }
+
+.siftal[data-theme="night"] .input .addon:not(.btn) {
+  color: #bbb; }
+
+.siftal[data-theme="night"] .select {
+  background-color: #000;
+  color: #eee; }
+
+.siftal[data-theme="night"] .txt {
+  background-color: #000;
+  color: #bbb; }
+
+.siftal[data-theme="night"] .txt:hover {
+  border-color: #777; }
+
+.siftal[data-theme="night"] .switch1 label:first-of-type {
+  background-color: #555; }
+
+.siftal[data-theme="night"] .switch1 input:checked + label:first-of-type {
+  background-color: #225c8a; }
+
+.siftal[data-theme="night"] .input input:focus, .siftal[data-theme="night"] .input.focus input {
+  border-color: #777; }
+
+.siftal[data-theme="night"] .select:focus, .siftal[data-theme="night"] .select.focus {
+  border-color: #777; }
+
+.siftal[data-theme="night"] .btn {
+  background-color: #333;
+  color: #ccc; }
+
+.siftal[data-theme="night"] .dark.outline {
+  color: #ccc; }
+
+.siftal[data-theme="night"] .pagination {
+  background-color: #000; }
+
+.siftal[data-theme="night"] .pagination a {
+  color: #ccc; }
+
+.siftal[data-theme="night"] .pagination a:link:hover {
+  color: #eee;
+  background-color: #333; }
+
+.siftal[data-theme="light"] {
+  background: #fff; }
+
+.siftal[data-theme="light"] .dashHead {
+  box-shadow: none; }
+
+.siftal[data-theme="light"] .dashHead.cloner {
+  display: none; }
+
+.siftal[data-theme="light"] .tbox {
+  background-color: #fff; }
+
+.siftal[data-theme="light"] .cbox {
+  border: 1px solid #eee; }
+
+.siftal[data-theme="light"] #sidebar {
+  background-color: #fff; }
+
+.siftal[data-theme="light"] #sidebar figure {
+  color: #3c4040; }
+
+.siftal[data-theme="light"] #sidebar ul > li > a {
+  color: #3c4040; }
+
+.siftal[data-theme="light"].ltr #sidebar ul > li > a {
+  -webkit-border-radius: 0 50px 50px 0;
+  border-radius: 0 50px 50px 0; }
+
+.siftal[data-theme="light"].rtl #sidebar ul > li > a {
+  -webkit-border-radius: 50px 0 0 50px;
+  border-radius: 50px 0 0 50px; }
+
+.siftal[data-theme="light"] #sidebar ul > li > a.weAreHere {
+  background-color: #e8f0fe;
+  color: #1a73e8; }
+
+.siftal[data-theme="light"] #sidebar ul > li > a:hover {
+  background-color: #f5f5f5; }
+
+.siftal[data-theme="light"] #sidebar ul > li > a:focus {
+  background-color: #e0e0e0; }
+
+.siftal[data-theme="light"] #sidebar ul > li > ul {
+  background-color: #fff; }
+
+.siftal[data-theme="light"] #sidebar ul > li.title {
+  background-color: #fff;
+  color: #3c4040; }
+
+.siftal[data-theme="light"] #sidebar ul > li.title:hover {
+  background-color: #f5f5f5; }
+
+.siftal[data-theme="light"] #sidebar .hr {
+  border-top-color: #dadce0 !important; }
+
+.siftal[data-theme="light"] #sidebar .activeContent {
+  border-color: #1a73e8;
+  color: #3c4040; }
+
+.siftal[data-theme="light"] #ermileBadge {
+  background-color: #fff; }
+
+.siftal[data-theme="light"] #ermileBadge h2 {
+  color: #555; }
+
+.siftal[data-theme="light"] #ermileBadge h3 {
+  color: #555; }
 
 /* header */
 .siftal .dashHead {
@@ -21311,6 +21346,39 @@ body.siftal .full .middle {
     transform: scale(1.4); }
   100% {
     opacity: .7; } }
+.siftal #sidebar {
+  overflow: hidden;
+  overflow-y: auto;
+  width: 250px;
+  height: 100%;
+  position: relative;
+  background-color: #302b2b;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -ms-user-select: none;
+  cursor: default;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  z-index: 10;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  transition: all 200ms cubic-bezier(0.694, 0.0482, 0.335, 1);
+  transition-property: right,left;
+  transform: translateX(0); }
+
+.siftal.ltr #sidebar {
+  left: 0; }
+
+.siftal.rtl #sidebar {
+  right: 0; }
+
 /* sidebar */
 .siftal #sidebar .scr {
   overflow: hidden;
@@ -21536,14 +21604,14 @@ body.siftal .full .middle {
   background-color: rgba(0, 0, 0, 0.8);
   color: #fff; }
 
-.siftal.ltr #sidebar .activeContent {
+.siftal #sidebar .activeContent {
   background-color: rgba(255, 255, 255, 0.1);
-  color: #fff;
+  color: #fff; }
+
+.siftal.ltr #sidebar .activeContent {
   border-left: 7px solid #fff; }
 
 .siftal.rtl #sidebar .activeContent {
-  background-color: rgba(255, 255, 255, 0.1);
-  color: #fff;
   border-right: 7px solid #fff; }
 
 .siftal.ltr #sidebar #ermileBadge {
