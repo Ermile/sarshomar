@@ -49,21 +49,23 @@ class twigTransTerms
 	echo T_("Help Center");                                                           // Line 18
 	echo T_("Eco Friendly");                                                          // Line 10
 	echo T_("Enamad");                                                                // Line 18
-	echo T_("Service");                                                               // Line 25
+	echo T_("Samandehi");                                                             // Line 19
+	echo T_("Service");                                                               // Line 27
 	echo T_("Benefits");                                                              // Line 16
 	echo T_("Pricing");                                                               // Line 17
-	echo T_("Learn More");                                                            // Line 33
-	echo T_("Terms of Service");                                                      // Line 35
+	echo T_("Learn More");                                                            // Line 35
+	echo T_("Terms of Service");                                                      // Line 37
 	echo T_("Privacy Policy");                                                        // Line 12
-	echo T_("Changelog");                                                             // Line 37
+	echo T_("Changelog");                                                             // Line 39
 	echo T_("Support");                                                               // Line 48
-	echo T_("Contact us");                                                            // Line 44
-	echo T_("Logo");                                                                  // Line 46
-	echo T_("Latest News");                                                           // Line 52
-	echo T_("Old");                                                                   // Line 66
-	echo T_("New");                                                                   // Line 66
-	echo T_("Questions answered");                                                    // Line 66
-	echo T_("Proudly Made in IRAN");                                                  // Line 67
+	echo T_("Contact us");                                                            // Line 46
+	echo T_("Logo");                                                                  // Line 48
+	echo T_("System Status");                                                         // Line 49
+	echo T_("Latest News");                                                           // Line 55
+	echo T_("Old");                                                                   // Line 69
+	echo T_("New");                                                                   // Line 69
+	echo T_("Questions answered");                                                    // Line 69
+	echo T_("Proudly Made in IRAN");                                                  // Line 70
 
 	//-----------------------------------------------content/template/inestimable.html
 	echo T_("Sarshomar Vision");                                                      // Line 13
