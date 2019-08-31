@@ -39,7 +39,7 @@
 
 			{{value.title}}
 			{%if value.score%}<span class=" badge mLR20 light fs09 ">{%trans "Score"%} {{value.score | fitNumber}}</span>{%endif%}
-			<a href="{{url.pwd}}" class="badge danger floatL" data-ajaxify data-method='post' data-data='{"key" : "{{key}}", "formType": "question", "action" : "remove"}'>{%trans "Remove"%}</a>
+			<a href="{{url.pwd}}" class="badge danger floatRa" data-ajaxify data-method='post' data-data='{"key" : "{{key}}", "formType": "question", "action" : "remove"}'>{%trans "Remove"%}</a>
 
 		</div>
 	{%endfor%}
