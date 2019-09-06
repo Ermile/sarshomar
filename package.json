@@ -6,7 +6,7 @@
   "repository": "github:Ermile/sarshomar",
   "license": "MIT",
   "dependencies": {
-    "dash": "^18.0.0",
+    "@ermile/dash": "^20.0.0",
     "siftal": "^6.9.0"
   }
 }
