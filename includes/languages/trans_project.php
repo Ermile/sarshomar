@@ -547,7 +547,7 @@ class twigTransTerms
 	echo T_("Please select one item");                                                // Line 18
 	echo T_("Whitout question");                                                      // Line 143
 	echo T_("Frequency");                                                             // Line 72
-	echo T_("Percent frequency");                                                     // Line 224
+	echo T_("Percent frequency");                                                     // Line 229
 
 	//----------------------------------------------content_a/report/question/chart.js
 

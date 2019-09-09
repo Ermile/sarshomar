@@ -496,7 +496,7 @@ class twigTransTerms
 	//------------------------------------addons/content_cms/contact/home/display.html
 	echo T_("Author");                                                                // Line 12
 	echo T_("Comment");                                                               // Line 142
-	echo T_("Without name");                                                          // Line 91
+	echo T_("Without name");                                                          // Line 431
 	echo T_("Visitor detail");                                                        // Line 100
 	echo T_("Approve");                                                               // Line 46
 	echo T_("Edit");                                                                  // Line 86
@@ -782,10 +782,11 @@ class twigTransTerms
 	echo T_("View attachment");                                                       // Line 310
 	echo T_("Add tag manually to link tickets togethers");                            // Line 374
 	echo T_("Current Time");                                                          // Line 389
-	echo T_("Notification procedures");                                               // Line 397
+	echo T_("Notification procedures");                                               // Line 405
 	echo T_("Telegram");                                                              // Line 45
-	echo T_("Do you know you can connect your account with our Telegram bot");        // Line 426
-	echo T_("Just need to start bot in Telegram and sync your account via /sync.");   // Line 426
+	echo T_("First name");                                                            // Line 48
+	echo T_("Do you know you can connect your account with our Telegram bot");        // Line 438
+	echo T_("Just need to start bot in Telegram and sync your account via /sync.");   // Line 438
 	echo T_("Short link");                                                            // Line 66
 
 	//----------------------------------addons/content_support/ticket/add/display.html
@@ -1333,7 +1334,6 @@ class twigTransTerms
 	echo T_("Some info may be visible to other people using our service.");           // Line 88
 	echo T_("Learn more");                                                            // Line 44
 	echo T_("A photo helps personalize your account");                                // Line 97
-	echo T_("First name");                                                            // Line 48
 	echo T_("BirthDate");                                                             // Line 119
 	echo T_("Social networks");                                                       // Line 144
 	echo T_("Website, Email and Social Networks");                                    // Line 145
@@ -1430,6 +1430,7 @@ class twigTransTerms
 
 	//------------------------------------------addons/content_su/cronjob/display.html
 	echo T_("Run cronjob for this service");                                          // Line 15
+	echo T_("Manual execute");                                                        // Line 47
 
 	//---------------------------------------------addons/content_su/info/display.html
 	echo T_("Show server info");                                                      // Line 8
