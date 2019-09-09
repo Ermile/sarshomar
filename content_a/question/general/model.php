@@ -72,6 +72,7 @@ class model
 		$post['title']     = \dash\request::post('title');
 		$post['desc']      = \dash\request::post('desc');
 		$post['password']  = \dash\request::post('password');
+		$post['setpassword']    = \dash\url::child() === 'general' ? 1 : null;
 		$post['address']   = \dash\request::post('address');
 		$post['survey_id'] = \dash\request::get('id');
 

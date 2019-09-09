@@ -573,7 +573,7 @@ class question
 		{
 			$password = \dash\app::request('password');
 
-			if(!isset($password) || is_null($password) || $password === '')
+			if(\dash\app::request('setpassword') && (!isset($password) || is_null($password) || $password === ''))
 			{
 				\dash\notif::error(T_("Please fill the password text"), 'password');
 				return false;
