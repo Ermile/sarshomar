@@ -158,7 +158,7 @@
 
 <label for="choicehelp">{%trans "Multi choice help text"%}</label>
 <div class="input">
-  <input type="text" name="choicehelp" id="choicehelp" placeholder='{%trans "You can select more than one choice!"%}' value="{{dataRow.setting.choicehelp}}"  min='1' max="{{dataRow.choice | length}}">
+  <input type="text" name="choicehelp" id="choicehelp" placeholder='{%trans "You can select more than one choice!"%}' value="{{dataRow['setting'][choiceDetail.key]['choicehelp']}}"  min='1' max="{{dataRow.choice | length}}">
 </div>
 {%endblock%}
 

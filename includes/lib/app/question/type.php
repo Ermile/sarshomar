@@ -195,6 +195,7 @@ trait type
 			'key'          => 'mobile',
 			'title'        => T_('Mobile'),
 			'logo'         => \dash\url::static(). '/images/question-type/mobile.png',
+			'placeholder'  => true,
 			'default_load' =>
 			[
 				'placeholder' => T_("Enter mobile"),
