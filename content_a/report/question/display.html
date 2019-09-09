@@ -202,7 +202,12 @@
     <tbody>
       {%for key, value in dataTable%}
       <tr>
-        <td>{{value.text}}</td>
+        <td>
+        {{value.text}}
+        {%if value.jdate%}
+        <span class="badge light">{{value.jdate}}</span>
+        {%endif%}
+        </td>
       </tr>
       {%endfor%}
     </tbody>

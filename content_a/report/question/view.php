@@ -102,6 +102,19 @@ class view
 					$args['answerdetails.question_id'] = \dash\coding::decode($questionid);
 
 					$dataTable = \lib\app\answerdetail::list(null, $args);
+					if($question_detail['type'] === 'date' && is_array($dataTable) && \dash\language::current() === 'fa')
+					{
+
+						foreach ($dataTable as $key => $value)
+						{
+
+							if(isset($value['text']))
+							{
+								$dataTable[$key]['jdate'] = \dash\datetime::fit($value['text'], null, 'date');
+							}
+						}
+					}
+
 					\dash\data::showChart(false);
 				}
 			}
