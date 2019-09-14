@@ -21959,7 +21959,8 @@ body.siftal .full .middle {
   font-weight: 900; }
 
 .blogEx.sample article h2 {
-  border-bottom: 10px solid #08b2ff;
+  border-bottom: 10px solid #333;
+  padding-bottom: 5px;
   margin-bottom: 10px; }
 
 .blogEx article h2 a {
@@ -21971,7 +21972,8 @@ body.siftal .full .middle {
   font-weight: 700; }
 
 .blogEx.sample article h3 {
-  border-bottom: 10px solid #08b2ff;
+  border-bottom: 3px solid #777;
+  padding-bottom: 5px;
   margin-bottom: 5px; }
 
 .blogEx article .meta {
