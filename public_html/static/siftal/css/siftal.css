@@ -23408,6 +23408,18 @@ body.siftal .full .middle {
 [data-app] .enter #enter {
   margin-bottom: 10px; }
 
+[data-app] .siftal #sidebar {
+  display: none; }
+
+[data-app] .siftal .dashHead {
+  display: none; }
+
+[data-app] .siftal #main {
+  margin: 0 !important; }
+
+[data-app] #xaccess {
+  display: none; }
+
 [data-app] {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
