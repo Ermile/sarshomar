@@ -4489,7 +4489,10 @@ img.mini {
 
   .printArea[data-size='receipt8'] {
     width: 84mm;
-    padding: 18mm 4mm 1mm; } }
+    padding: 18mm 4mm 1mm; }
+
+  .printArea[data-height='auto'] {
+    height: auto; } }
 .printArea {
   -webkit-print-color-adjust: exact; }
 
