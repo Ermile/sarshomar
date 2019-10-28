@@ -23362,7 +23362,7 @@ body.siftal .full .middle {
     max-width: calc( 100% - 110px);
     font-size: 1.2em; }
 
-  .siftal .dashHead h1 + .hm {
+  .siftal .dashHead .notification {
     display: none !important; }
 
   .siftal.ltr #main {
