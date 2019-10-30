@@ -42,7 +42,55 @@ Version       1.0.0
   font-weight: normal;
   src: url("../fonts/IRANSans/5.5/eot/IRANSansWeb.eot");
   src: url("../fonts/IRANSans/5.5/eot/IRANSansWeb.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANSans/5.5/woff2/IRANSansWeb.woff2") format("woff2"), url("../fonts/IRANSans/5.5/woff/IRANSansWeb.woff") format("woff"), url("../fonts/IRANSans/5.5/ttf/IRANSansWeb.ttf") format("truetype"); }
-/* roboto fontface for en text*/
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebbold.eot");
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebbold.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANYekan/3.0//woff/iranyekanwebbold.woff") format("woff"), url("../fonts/IRANYekan/3.0//ttf/iranyekanwebbold.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 100;
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebthin.eot");
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebthin.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANYekan/3.0//woff/iranyekanwebthin.woff") format("woff"), url("../fonts/IRANYekan/3.0//ttf/iranyekanwebthin.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanweblight.eot");
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanweblight.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANYekan/3.0//woff/iranyekanweblight.woff") format("woff"), url("../fonts/IRANYekan/3.0//ttf/iranyekanweblight.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebregular.eot");
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebregular.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANYekan/3.0//woff/iranyekanwebregular.woff") format("woff"), url("../fonts/IRANYekan/3.0//ttf/iranyekanwebregular.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebmedium.eot");
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebmedium.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANYekan/3.0//woff/iranyekanwebmedium.woff") format("woff"), url("../fonts/IRANYekan/3.0//ttf/iranyekanwebmedium.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebextrabold.eot");
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebextrabold.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANYekan/3.0//woff/iranyekanwebextrabold.woff") format("woff"), url("../fonts/IRANYekan/3.0//ttf/iranyekanwebextrabold.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebblack.eot");
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebblack.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANYekan/3.0//woff/iranyekanwebblack.woff") format("woff"), url("../fonts/IRANYekan/3.0//ttf/iranyekanwebblack.ttf") format("truetype"); }
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 950;
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebextrablack.eot");
+  src: url("../fonts/IRANYekan/3.0//eot/iranyekanwebextrablack.eot?#iefix") format("embedded-opentype"), url("../fonts/IRANYekan/3.0//woff/iranyekanwebextrablack.woff") format("woff"), url("../fonts/IRANYekan/3.0//ttf/iranyekanwebextrablack.ttf") format("truetype"); }
+/* lato fontface for en text*/
 @font-face {
   font-family: 'LatoLatinWebBlack';
   src: url(../fonts/lato/LatoLatin-Black.eot);
@@ -251,6 +299,9 @@ body.rtl {
 body.ltr {
   direction: ltr;
   font-family: LatoLatinWeb, IRANSans, "Segoe UI", Helvetica, sans-serif; }
+
+html[data-jibres] body.rtl {
+  font-family: IRANYekan, "Segoe UI", Helvetica, sans-serif; }
 
 *,
 *:before,
